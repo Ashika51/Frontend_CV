@@ -1,0 +1,30 @@
+h1{
+    color: rgb(192, 46, 46);
+}
+body{
+    background-color: whitesmoke;
+}
+form{
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 200px;
+    padding: 10px;
+    background-color: white;
+    box-shadow: 0 0 10px blue;
+}
+form h1{
+    text-align: center;
+}
+form input{
+    width: 100%;
+    margin: 10px 0;
+    padding: 10px;
+    box-sizing: border-box;
+}
+form input[type="submit"]{
+    background-color: black;
+    color: blue;
+    width: 100px;
+    margin: auto;
+}

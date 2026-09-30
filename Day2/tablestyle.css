@@ -1,0 +1,22 @@
+table,table th,table td{
+    color: white;
+    padding: 20px 30px;
+    border: 5px solid white;
+    border-collapse: collapse;
+    
+}
+table th{
+    color:brown;
+    background-color: white;
+}
+table td{
+    background-color: white;
+    color: aqua;
+}
+table{
+    text-align: center;
+    color: white;
+}
+h1{
+    text-align: center;
+}

@@ -1,0 +1,18 @@
+h1{
+    color: blue;
+    text-align: center;
+}
+.para{
+    /* border-color: red;
+    border-width: 10px;
+    border-style: dashed; */
+    border: 10px dashed red;
+    color: purple;
+    
+    padding: 50px;
+    margin: 20px;
+    width: 80%;
+
+    text-align: center;
+    text-align: justify;
+}
